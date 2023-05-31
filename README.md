@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>𝙏𝙃𝙀 𝙏𝙊𝙓𝙄𝘾𝘽𝙊𝙏 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://graph.org/file/db0705d103a75a09597be.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ᒪᗴᘔᗴᑎᗪᗴᖇY Oᖴ TO᙭IᑕᗷOT ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -15,20 +15,20 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TOXIC-BOY-OP/TOXICBOT?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/TOXIC-BOY-OP/TOXICBOT?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/TOXIC-BOY-OP/TOXICBOT?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/TOXIC-BOY-OP/TOXICBOT?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/TOXIC-BOY-OP/TOXICBOT?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/DOSTO_KI_M3HFIL)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/SHAYERI_WORLD)
 
 ------
 ## Deploy 🚀
@@ -65,7 +65,7 @@
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/The-HellBot/Plugins-T.git`
+`git clone https://github.com/TOXIC-BOY-OP/Plugins-T.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
@@ -164,14 +164,14 @@
 # License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="TOXICBOT License">
 </p>
 
 <h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2022 <a href="https://github.com/TOXIC-BOY-OP">TOXIC-BOY-OP</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/TOXIC-BOY-OP/TOXICBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -186,6 +186,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [Team ToxicBot](https://github.com/TOXIC-BOY-OP)
 
 ------
