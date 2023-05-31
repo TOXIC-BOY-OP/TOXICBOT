@@ -20,16 +20,16 @@ _library () {
 }
 
 _starter () {
-    local hellpath
+    local Toxicpath
     hellpath="Plugins.zip"
-    echo "••• DOWNLOADING HELLBOT •••"
+    echo "••• DOWNLOADING TOXICBOT •••"
     wget -q $(_hell_zip) -O "$hellpath"
     HELLPATH=$(zipinfo -1 "$hellpath" | grep -v "/.");
     unzip -qq "$hellpath"
     rm -rf "$hellpath"
     cd $HELLPATH
     python3 ../updater.py ../requirements.txt requirements.txt
-    echo "••• STARTING HELLBOT •••"
+    echo "••• STARTING TOXICBOT •••"
     _library
 }
 
