@@ -33,8 +33,8 @@ except:
 
 
 def main():
-    print("T E A M    H E L L B O T   ! !")
-    print("Hello!! Welcome to HellBot Session Generator\n")
+    print("T E A M    T O X I C B O T   ! !")
+    print("Hello!! Welcome to hellBot Session Generator\n")
     print("Human Verification Required !!")
     while True:
         verify = int(randint(1, 50))
